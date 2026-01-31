@@ -1,4 +1,6 @@
-# 📱 Erasmus Expense Tracker - Mobile Application Final Project for WUST (Poland)
+# 📱 Erasmus Expense Tracker 
+
+###  Mobile Application Final Project for WUST (Poland)
 
 **Erasmus Expense Tracker** is a modern Android application designed to help students and individuals manage their personal finances while living abroad. The app allows users to record expenses and incomes, set category-based monthly budgets, and visualize financial trends through animated, interactive charts.
 
@@ -103,7 +105,7 @@ Notifications are shown using **Snackbars**, triggered by reactive budget checks
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/erasmus-expense-tracker.git
+   git clone https://github.com/vsebastianmar/ErasmusExpenseTracker.git
    ```
 
 2. Open the project in **Android Studio**
